@@ -1,6 +1,6 @@
 const config = {
-    token: '7872561320:AAEYeMyxHgN8PA2PahCWyMlZiMywqIcT9Tw',
-    chat_id: '-4971132212',
+    token: '8131203747:AAH7BsuPfBc5Z6qJ9hjU02hTH8WWkR__AF8',
+    chat_id: '1689892812',
     noti_token: '',
     noti_chat_id: ''
 };
